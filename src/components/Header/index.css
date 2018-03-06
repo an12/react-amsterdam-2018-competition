@@ -22,7 +22,8 @@
 }
 
 .Header-title {
-  font: 100px/1.16 Lato, sans-serif;
+  font-size: 100px;
+  line-height: 1.16;
   font-weight: 900;
   color: #fff;
 }

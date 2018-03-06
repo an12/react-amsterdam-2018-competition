@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 import './index.css'
 
 class Body extends Component {
@@ -7,7 +7,7 @@ class Body extends Component {
       <div className="Body-body">
         <div className="Body-container">
           <h2 className="Body-title">
-            <small>React Amsterdam is a celebration of good things coming together:</small>
+            <small>REACT AMSTERDAM IS A CELEBRATION OF GOOD THINGS COMING TOGETHER:</small>
             <div>REACT THAT ROCKS AND SPRING IN AMSTERDAM THAT BLOSSOMS</div>
           </h2>
           <p>
@@ -20,9 +20,9 @@ class Body extends Component {
             State Management as well as a crash course on React Native.
           </p>
           <div className="Body-images">
-            <img src={require('../../images/01.jpg')} className="Body-img" alt="01" />
-            <img src={require('../../images/02.jpg')} className="Body-img" alt="02" />
-            <img src={require('../../images/03.jpg')} className="Body-img" alt="03" />
+            <img src="/images/01.jpg" className="Body-img" alt="01"/>
+            <img src="/images/02.jpg" className="Body-img" alt="02"/>
+            <img src="/images/03.jpg" className="Body-img" alt="03"/>
           </div>
         </div>
       </div>

@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react'
 import ralogo from './ralogo.svg'
 import spbflogo from './spbflogo.svg'
 import overlay from './overlay_bg.svg'
@@ -16,7 +16,6 @@ class Header extends Component {
           loop
           poster="https://react.amsterdam/img/dummy_bg.jpg"
           id="bgvid">
-          <source src="https://react.amsterdam/video/video-.webm" type="video/webm" />
           <source src="https://react.amsterdam/video/video.mp4" type="video/mp4" />
         </video>
 
