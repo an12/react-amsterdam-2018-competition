@@ -1,18 +1,18 @@
 {
-  "name": "react-amsterdam-2017-competition",
+  "name": "react-amsterdam-2018-competition",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://spb-frontend@github.com/react-amsterdam-2017-competition.git"
+    "url": "git+https://an12@github.com/react-amsterdam-2018-competition.git"
   },
-  "author": "Alex Kurganov",
+  "author": "Andrey Glazkov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spb-frontend/react-amsterdam-2017-competition/issues"
+    "url": "https://github.com/an12/react-amsterdam-2018-competition/issues"
   },
-  "homepage": "https://github.com/spb-frontend/react-amsterdam-2017-competition#readme",
+  "homepage": "https://an12.github.io/react-amsterdam-2018-competition",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
