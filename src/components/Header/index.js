@@ -13,6 +13,7 @@ class Header extends Component {
           loop
           poster="https://react.amsterdam/img/dummy_bg.jpg"
           id="bgvid">
+          <source src="https://react.amsterdam/video/video.webm" type="video/webm"/>
           <source src="https://react.amsterdam/video/video.mp4" type="video/mp4" />
         </video>
 
