@@ -44,7 +44,6 @@ a:hover {
   font-weight: 900;
   margin: 14px 0 46px;
   background: linear-gradient(150deg, #9f0, #00dd3b);
-  background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
 }
