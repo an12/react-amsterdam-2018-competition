@@ -11,7 +11,7 @@ class Header extends Component {
           muted
           autoPlay
           loop
-          poster="https://react.amsterdam/img/dummy_bg.jpg"
+          poster={process.env.PUBLIC_URL + '/images/dummy_bg.jpg'}
           id="bgvid">
           <source src="https://react.amsterdam/video/video.mp4" type="video/mp4" />
         </video>
