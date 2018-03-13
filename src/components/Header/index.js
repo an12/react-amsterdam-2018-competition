@@ -15,8 +15,7 @@ class Header extends Component {
           <source src={process.env.PUBLIC_URL + '/video/video.webm'} type="video/webm" />
         </video>
 
-        <div className="Header-overlay"
-             style={{background: `url( ${process.env.PUBLIC_URL + '/images/overlay_bg.svg'}) 50% rgba(0, 0, 0, .4)`}}/>
+        <div className="Header-overlay"/>
 
         <div className="Header-wrapper">
           <div className="Header-logos">
