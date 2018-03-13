@@ -11,9 +11,8 @@ class Header extends Component {
           muted
           autoPlay
           loop
-          poster={process.env.PUBLIC_URL + '/images/dummy_bg.jpg'}
           id="bgvid">
-          <source src="https://react.amsterdam/video/video.mp4" type="video/mp4" />
+          <source src={process.env.PUBLIC_URL + '/video/video.webm'} type="video/webm" />
         </video>
 
         <div className="Header-overlay"
